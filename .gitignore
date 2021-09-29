@@ -1,6 +1,6 @@
-
-*.txt
 *.jpg
 *.jpeg
 *.gif
 *.png
+
+*.db
